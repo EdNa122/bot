@@ -1,1 +1,1 @@
-worker: python kesnya.py
+worker: python ksenya.py $PORT
